@@ -1,3 +1,3 @@
 # Boilerplater-ModeloWebpack
 
-write on the terminal: npm -install
+write on the terminal: npm install
